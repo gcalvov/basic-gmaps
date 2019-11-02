@@ -4,6 +4,6 @@
 - Se creó un script llamado maps.js donde se implementa lo necesario para cálculo de rutas, distancias y tiempos estimados.
 - Se utiliza un CSS de Bootswatch (https://bootswatch.com/) para estilos.
 
-PARA LEER LA INVESTIGACIÓN SOBRE GMAPS, INGRESAR AL PDF ADJUNTADO (Investigación sobre GMaps.pdf).
+PARA LEER LA INVESTIGACIÓN SOBRE GMAPS, INGRESAR AL PDF ADJUNTO (Investigación sobre GMaps.pdf).
 
 PARA VISUALIZAR EL VÍDEO EXPLICATORIO, INGRESAR AL SIGUIENTE ENLACE: https://www.youtube.com/watch?v=0_oTDfq1oI0.
